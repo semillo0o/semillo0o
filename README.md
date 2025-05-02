@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @commend09
+- 👋 Hi, I’m @semilo0o
 - 👀 I’m interested in Rhythm game
 - 🌱 I’m currently learning c++, java, Kotlin, JS, python..
 - 💞️ I’m looking to collaborate on you, Any good idea is fine!
