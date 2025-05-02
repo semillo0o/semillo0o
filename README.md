@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semillo0o
 - 👀 I’m interested in Rhythm game
-- 🌱 I’m currently learning c++, java, Kotlin, JS, python..
+- 🌱 I’m currently learning c++, java, Kotlin, JS, python.. and swift, Rust
 - 💞️ I’m looking to collaborate on you, Any good idea is fine!
 - 📫 How to reach me: discord DM 'sprout_740'
 - 😄 Pronouns: secret
