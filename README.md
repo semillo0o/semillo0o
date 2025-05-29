@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @semillo0o
-- 👀 I’m interested in Rhythm game
-- 🌱 I’m currently learning c++, java, Kotlin, JS, python.. and swift, Rust
-- 💞️ I’m looking to collaborate on you, Any good idea is fine!
-- 📫 How to reach me: discord DM 'sprout_740'
-- 😄 Pronouns: secret
-- ⚡ Fun fact: I'm very obsessive, so if you get caught up in me, you could be in big trouble.
+<h1 align="center">🌱 Hello! I'm @semillo0o 🍡</h1>
+<p align="center">✨ 리듬게임 중독자 + 언어 수집가 + 개발 새싹이에여! ✨</p>
+
+---
+
+### 🎮 취미 & 관심사
+- 👀 리듬게임 없으면 하루도 못 살아여~
+- 🌟 애니 좋아하고, 덕후력은 진심이야... (특히 씹덕풍 최고)
+- 🧪 재미있어 보이는 건 무조건 파고들어야 직성이 풀려!!
+
+---
+
+### 🛠️ 지금 배우고 있는 언어들
+> 공부도 잡식성 스타일이랄까~?  
+> 뭘 배워도 재밌는걸 어떡해! 💻💕
+
+- `C++`, `Java`, `Kotlin`, `JavaScript`, `Python`  
+- 그리고 지금은 `Swift`, `Rust`도 몰래 야금야금~  
+
+---
+
+### 🤝 같이 해보는 것도 좋지 않을까~?
+- 💞️ 아이디어만 있다면 누구든 환영이야! 같이 뭐 재밌는 거 만들어보자~!
+- 📫 **Contact**: Discord DM `sprout_740` 으로 말 걸어줘🎐
+
+---
+
+### ⚠️ Fun Fact (주의?)
+> 나 좀... **집착**이 심한 편이야  
+> 한번 걸리면 휘말릴 수도 있으니까 조심해!? 😏
+
+---
 
 <!---
-commend09/commend09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+semillo0o/semillo0o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
