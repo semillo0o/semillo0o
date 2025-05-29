@@ -1,4 +1,4 @@
-<h1 align="center">🌱 Hello! I'm @semillo0o 🍡</h1>
+<h1 align="center">🌱 Hello! I'm @semillo0o 🌱</h1>
 <p align="center">✨ 리듬게임 중독자 + 언어 수집가 + 개발 새싹이에여! ✨</p>
 
 ---
